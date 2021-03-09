@@ -1,8 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  9 12:47:18 2021
+message = "Hello Python World!"
+print(message)
 
-@author: cepps
-"""
+message = "Hello Python Crash Course World!"
+print(message)
 
-print("Hello Python World!")
+mesage = "Hello Python Crash Course reader!"
+print(mesage)
